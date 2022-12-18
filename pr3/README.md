@@ -39,7 +39,7 @@ ___
 ---
 ## aim 4 : WAP to create a class which Read and Print House details along with Room details
 
-## code : pr-3-2.cpp
+## code : pr-3-4.cpp
 
 ## output : 
  ![Tux, the Linux mascot]()
@@ -51,7 +51,7 @@ ___
 ---
 ## aim 5 : WAP which illustrates the use of public and private access modifiers.
 
-## code : pr-3-2.cpp
+## code : pr-3-5.cpp
 
 ## output : 
  ![Tux, the Linux mascot]()
