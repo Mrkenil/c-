@@ -18,7 +18,7 @@ ___
 ## code : pr-3-2.cpp
 
 ## output : 
- ![Tux, the Linux mascot]()
+ ![Tux, the Linux mascot](https://github.com/Mrkenil/c-/blob/master/pr3/image/code2.jpg)
  
  ---
  ---
@@ -30,7 +30,7 @@ ___
 ## code : pr3-3.cpp
 
 ## output : 
- ![Tux, the Linux mascot]()
+ ![Tux, the Linux mascot](https://github.com/Mrkenil/c-/blob/master/pr3/image/code3.jpg)
  
  ---
  ---
@@ -42,7 +42,7 @@ ___
 ## code : pr-3-4.cpp
 
 ## output : 
- ![Tux, the Linux mascot]()
+ ![Tux, the Linux mascot](https://github.com/Mrkenil/c-/blob/master/pr3/image/code4.jpg)
  
  ---
  ---
@@ -54,7 +54,7 @@ ___
 ## code : pr-3-5.cpp
 
 ## output : 
- ![Tux, the Linux mascot]()
+ ![Tux, the Linux mascot](https://github.com/Mrkenil/c-/blob/master/pr3/image/code5.jpg)
  
  ---
  ---
