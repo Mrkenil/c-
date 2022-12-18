@@ -7,7 +7,7 @@
 ## code : pr-3-1.cpp
 
 ## output : 
- ![Tux, the Linux mascot]()
+ ![Tux, the Linux mascot](https://github.com/Mrkenil/c-/blob/master/pr3/image/code1.jpg)
 
 ---
 ___
