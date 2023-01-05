@@ -18,8 +18,7 @@ accordingly.
 ## code : ch8-1-1.cpp
 
 ## output : 
- ![Tux, the Linux mascot](https://user-images.githubusercontent.com/114163927/210778507-3c44496d-3b21-4154-85e4-a7bc41f5af8d.png)
-
+ ![Tux, the Linux mascot]()
 
 ---
 ___
