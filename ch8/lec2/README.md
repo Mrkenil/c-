@@ -1,4 +1,4 @@
-# program 1 :
+# programs :
 ---
 ## aim 1 : WAP to perform some basic mathematical operationsusing Abstract class such like:
 - area of circle
