@@ -5,7 +5,7 @@
 ## code : pr8-1.cpp
 
 ## output : 
- ![Tux, the Linux mascot]()
+ ![Tux, the Linux mascot](https://github.com/Mrkenil/c-/blob/master/pr8/image/1.png)
 
 ---
 ___
@@ -15,7 +15,7 @@ ___
 ## code : pr8-2.cpp
 
 ## output : 
- ![Tux, the Linux mascot]()
+ ![Tux, the Linux mascot](https://github.com/Mrkenil/c-/blob/master/pr8/image/2.png)
 
 ---
 ___
