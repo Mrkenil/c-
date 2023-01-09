@@ -5,7 +5,7 @@
 ## code : pr6-1.cpp
 
 ## output : 
- ![Tux, the Linux mascot]()
+ ![Tux, the Linux mascot](https://github.com/Mrkenil/c-/blob/master/pr6/image/1.png)
 
 ---
 ___
@@ -15,7 +15,7 @@ ___
 ## code : pr6-2.cpp
 
 ## output : 
- ![Tux, the Linux mascot]()
+ ![Tux, the Linux mascot](https://github.com/Mrkenil/c-/blob/master/pr6/image/2.png)
 
 ---
 ___
@@ -25,7 +25,7 @@ ___
 ## code : pr6-3.cpp
 
 ## output : 
- ![Tux, the Linux mascot]()
+ ![Tux, the Linux mascot](https://github.com/Mrkenil/c-/blob/master/pr6/image/3.png)
 
 ---
 ___
@@ -35,7 +35,7 @@ ___
 ## code : pr6-4.cpp
 
 ## output : 
- ![Tux, the Linux mascot]()
+ ![Tux, the Linux mascot](https://github.com/Mrkenil/c-/blob/master/pr6/image/4.png)
 
 ---
 ___
@@ -45,7 +45,7 @@ ___
 ## code : pr6-5.cpp
 
 ## output : 
- ![Tux, the Linux mascot]()
+ ![Tux, the Linux mascot](https://github.com/Mrkenil/c-/blob/master/pr6/image/5.png)
 
 ---
 ___
@@ -55,7 +55,7 @@ ___
 ## code : pr6-6.cpp
 
 ## output : 
- ![Tux, the Linux mascot]()
+ ![Tux, the Linux mascot](https://github.com/Mrkenil/c-/blob/master/pr6/image/6.png)
 
 ---
 ___
