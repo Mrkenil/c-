@@ -14,3 +14,4 @@ calculate() to perform all above operations
 
 ---
 ___
+![Screenshot_20230104_031135](https://user-images.githubusercontent.com/114163927/211301709-9121bb15-705b-47b9-9e54-af00b0845ba7.png)
