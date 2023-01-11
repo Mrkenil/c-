@@ -5,7 +5,7 @@
 ## code : pr5-1.cpp
 
 ## output : 
- ![Tux, the Linux mascot]()
+ ![Tux, the Linux mascot](https://github.com/Mrkenil/c-/blob/master/pr5/image/1.png)
  
 ---
 ___
@@ -15,7 +15,7 @@ ___
 ## code : pr5-2.cpp
 
 ## output : 
- ![Tux, the Linux mascot]()
+ ![Tux, the Linux mascot](https://github.com/Mrkenil/c-/blob/master/pr5/image/2.png)
 
 ---
 ___
@@ -25,7 +25,7 @@ ___
 ## code : pr5-3.cpp
 
 ## output : 
- ![Tux, the Linux mascot]()
+ ![Tux, the Linux mascot](https://github.com/Mrkenil/c-/blob/master/pr5/image/3.png)
 
 ---
 ___
@@ -35,7 +35,7 @@ ___
 ## code : pr5-4.cpp
 
 ## output : 
- ![Tux, the Linux mascot]()
+ ![Tux, the Linux mascot](https://github.com/Mrkenil/c-/blob/master/pr5/image/4.png)
 
 ---
 ___
@@ -45,18 +45,18 @@ ___
 ## code : pr5-5.cpp
 
 ## output : 
- ![Tux, the Linux mascot]()
+ ![Tux, the Linux mascot](https://github.com/Mrkenil/c-/blob/master/pr5/image/5.png)
 
 ---
 ___
 
 ## aim 6 :  WAP to read and print employee information with use of multilevel inheritance. (as like in below image).
-![Tux, the Linux mascot]()
+![Tux, the Linux mascot](https://github.com/Mrkenil/c-/blob/master/pr5/image/6_Q.png)
 
 ## code : pr5-6.cpp
 
 ## output : 
- ![Tux, the Linux mascot]()
+ ![Tux, the Linux mascot](https://github.com/Mrkenil/c-/blob/master/pr5/image/6.png)
 
 ---
 ___
